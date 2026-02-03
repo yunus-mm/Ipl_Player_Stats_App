@@ -10051,64 +10051,64 @@
   },
   {
     "playerId": "P177",
-    "name": "Jacob Duffy (Overseas)",
-    "age": "31",
-    "role": "Bowler",
-    "handedness": "Right-hand bat",
-    "teamLastSeason": "Royal Challengers Bengaluru",
-    "image": "/players/P177.png",
+    "name": "Mustafizur Rahman",
+    "age": "30",
+    "role": "bowler",
+    "handedness": "Left-hand bat",
+    "teamLastSeason": "Delhi Capitals",
+    "image": "/players/P177.avif",
     "unsold": true,
     "battingStats": {
-      "matches": "41",
-      "innings": "10",
-      "runs": "28",
-      "average": "7.0",
-      "strikeRate": "90.32",
+      "matches": "14",
+      "innings": "2",
+      "runs": "1",
+      "average": "0.5",
+      "strikeRate": "50.0",
       "fifties": "0",
       "hundreds": "0",
-      "ballsPerDismissal": "3.1",
+      "ballsPerDismissal": "1.0",
       "boundaries": {
-        "fours": "2",
+        "fours": "0",
         "sixes": "0",
-        "boundaryPercentage": "28.6"
+        "boundaryPercentage": "0.0"
       },
       "phaseWiseStrikeRate": {
         "powerplay": "0.0",
-        "middleOvers": "80.0",
-        "deathOvers": "105.2"
+        "middleOvers": "0.0",
+        "deathOvers": "50.0"
       },
       "consistency": {
         "thirtyPlusPercentage": "0.0"
       },
       "recentForm": {
         "lastSeasonRuns": "0",
-        "lastSeasonMatches": "0",
+        "lastSeasonMatches": "3",
         "recentAverage": "0.0"
       }
     },
     "bowlingStats": {
-      "inningsBowled": "40",
-      "wickets": "56",
-      "average": "17.98",
-      "economy": "7.59",
-      "strikeRate": "14.21",
+      "inningsBowled": "14",
+      "wickets": "19",
+      "average": "25.5",
+      "economy": "9.3",
+      "strikeRate": "16.5",
       "phaseWiseEconomy": {
-        "powerplay": "6.8",
-        "deathOvers": "9.2"
+        "powerplay": "8.9",
+        "deathOvers": "10.4"
       },
       "control": {
-        "dotBallPercentage": "44.2",
-        "oversUnderSixRPO": "4"
+        "dotBallPercentage": "36.5",
+        "oversUnderSixRPO": "2"
       },
       "recentForm": {
-        "lastSeasonWickets": "0",
-        "lastSeasonEconomy": "0.0"
+        "lastSeasonWickets": "4",
+        "lastSeasonEconomy": "7.9"
       }
     },
     "allRounderStats": {
-      "matchesWithRunsAndWickets": "4",
-      "averageBattingPosition": "10.0",
-      "oversBowledPerMatch": "3.4"
+      "matchesWithRunsAndWickets": "1",
+      "averageBattingPosition": "10.5",
+      "oversBowledPerMatch": "3.7"
     }
   },
   {
