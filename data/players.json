@@ -2113,7 +2113,7 @@
     "age": "32",
     "role": "Batsman",
     "handedness": "Left Handed",
-    "teamLastSeason": "Kolkata Knight Riders",
+    "teamLastSeason": "Rajasthan Royals",
     "image": "/players/P036.avif",
     "unsold": true,
     "battingStats": {
@@ -4718,7 +4718,7 @@
     "age": "29",
     "role": "Allrounder",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Gujarat Titans",
+    "teamLastSeason": "Sunrisers Hyderabad",
     "image": "/players/P081.avif",
     "unsold": false,
     "battingStats": {
@@ -8939,7 +8939,7 @@
     "age": "26",
     "role": "Bowler",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Kolkata Knight Riders",
+    "teamLastSeason": "Sunrisers Hyderabad",
     "image": "/players/P158.avif",
     "unsold": true,
     "battingStats": {
@@ -9497,7 +9497,7 @@
     "age": "34",
     "role": "Bowler",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Punjab Kings",
+    "teamLastSeason": "Kolkata Knight Riders",
     "image": "/players/P167.avif",
     "unsold": true,
     "battingStats": {
@@ -9745,58 +9745,58 @@
     "age": "27",
     "role": "Bowler",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Lucknow Super Giants",
+    "teamLastSeason": "Gujarat Titans",
     "image": "/players/P171.avif",
-    "unsold": true,
+    "unsold": false,
     "battingStats": {
-      "matches": "32",
+      "matches": "23",
       "innings": "14",
-      "runs": "51",
-      "average": "5.67",
-      "strikeRate": "91.07",
+      "runs": "38",
+      "average": "3.80",
+      "strikeRate": "92.68",
       "fifties": "0",
       "hundreds": "0",
-      "ballsPerDismissal": "6.2",
+      "ballsPerDismissal": "4.1",
       "boundaries": {
-        "fours": "4",
+        "fours": "3",
         "sixes": "2",
-        "boundaryPercentage": "54.9"
+        "boundaryPercentage": "52.6"
       },
       "phaseWiseStrikeRate": {
         "powerplay": "0.0",
-        "middleOvers": "72.4",
-        "deathOvers": "108.5"
+        "middleOvers": "80.5",
+        "deathOvers": "110.2"
       },
       "consistency": {
         "thirtyPlusPercentage": "0.0"
       },
       "recentForm": {
-        "lastSeasonRuns": "0",
-        "lastSeasonMatches": "0",
-        "recentAverage": "0.0"
+        "lastSeasonRuns": "3",
+        "lastSeasonMatches": "6",
+        "recentAverage": "1.50"
       }
     },
     "bowlingStats": {
-      "inningsBowled": "32",
-      "wickets": "30",
-      "average": "31.4",
-      "economy": "8.71",
-      "strikeRate": "21.6",
+      "inningsBowled": "23",
+      "wickets": "25",
+      "average": "26.88",
+      "strikeRate": "19.24",
+      "economy": "8.38",
       "phaseWiseEconomy": {
-        "powerplay": "8.2",
-        "deathOvers": "10.4"
+        "powerplay": "7.8",
+        "deathOvers": "9.6"
       },
       "control": {
-        "dotBallPercentage": "36.5",
+        "dotBallPercentage": "34.2",
         "oversUnderSixRPO": "1"
       },
       "recentForm": {
-        "lastSeasonWickets": "0",
-        "lastSeasonEconomy": "0.0"
+        "lastSeasonWickets": "5",
+        "lastSeasonEconomy": "10.32"
       }
     },
     "allRounderStats": {
-      "matchesWithRunsAndWickets": "5",
+      "matchesWithRunsAndWickets": "4",
       "averageBattingPosition": "8.5",
       "oversBowledPerMatch": "3.3"
     }
@@ -10051,7 +10051,7 @@
   },
   {
     "playerId": "P177",
-    "name": "Mustafizur Rahman",
+    "name": "Mustafizur Rahman (Overseas)",
     "age": "30",
     "role": "bowler",
     "handedness": "Left-hand bat",
@@ -12041,7 +12041,7 @@
     "role": "Allrounder",
     "handedness": "Right-hand bat",
     "teamLastSeason": "Lucknow Super Giants",
-    "image": "/players/P112.webp",
+    "image": "/players/P112.avif",
     "unsold": false,
     "battingStats": {
       "matches": "16",
