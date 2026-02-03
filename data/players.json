@@ -1427,64 +1427,64 @@
   },
   {
     "playerId": "P024",
-    "name": "Jacob Bethell (Overseas)",
+    "name": "Jacob Bethell",
     "age": "22",
-    "role": "Batsman",
-    "handedness": "Left Handed",
+    "role": "Allrounder",
+    "handedness": "Left-hand bat",
     "teamLastSeason": "Royal Challengers Bengaluru",
     "image": "/players/P024.avif",
     "unsold": true,
     "battingStats": {
-      "matches": "60",
-      "innings": "54",
-      "runs": "1104",
-      "average": "24.53",
-      "strikeRate": "139.04",
-      "fifties": "7",
+      "matches": "2",
+      "innings": "2",
+      "runs": "67",
+      "average": "33.5",
+      "strikeRate": "171.8",
+      "fifties": "1",
       "hundreds": "0",
-      "ballsPerDismissal": "17.65",
+      "ballsPerDismissal": "19.5",
       "boundaries": {
-        "fours": "81",
-        "sixes": "56",
-        "boundaryPercentage": "62.40%"
+        "fours": "9",
+        "sixes": "3",
+        "boundaryPercentage": "71.6"
       },
       "phaseWiseStrikeRate": {
-        "powerplay": "152.40",
-        "middleOvers": "128.60",
-        "deathOvers": "174.20"
+        "powerplay": "165.0",
+        "middleOvers": "180.5",
+        "deathOvers": "0.0"
       },
       "consistency": {
-        "thirtyPlusPercentage": "25.92%"
+        "thirtyPlusPercentage": "50.0"
       },
       "recentForm": {
-        "lastSeasonRuns": "392",
-        "lastSeasonMatches": "20",
-        "recentAverage": "30.15"
+        "lastSeasonRuns": "67",
+        "lastSeasonMatches": "2",
+        "recentAverage": "33.5"
       }
     },
     "bowlingStats": {
-      "inningsBowled": "20",
-      "wickets": "11",
-      "average": "26.90",
-      "economy": "7.65",
-      "strikeRate": "21.00",
+      "inningsBowled": "0",
+      "wickets": "0",
+      "average": "0.0",
+      "economy": "0.0",
+      "strikeRate": "0.0",
       "phaseWiseEconomy": {
-        "powerplay": "6.80",
-        "deathOvers": "10.40"
+        "powerplay": "0.0",
+        "deathOvers": "0.0"
       },
       "control": {
-        "dotBallPercentage": "38.20%",
-        "oversUnderSixRPO": "4"
+        "dotBallPercentage": "0.0",
+        "oversUnderSixRPO": "0"
       },
       "recentForm": {
-        "lastSeasonWickets": "4",
-        "lastSeasonEconomy": "10.09"
+        "lastSeasonWickets": "0",
+        "lastSeasonEconomy": "0.0"
       }
     },
     "allRounderStats": {
-      "matchesWithRunsAndWickets": "8",
-      "averageBattingPosition": "4/5",
-      "oversBowledPerMatch": "1.2"
+      "matchesWithRunsAndWickets": "0",
+      "averageBattingPosition": "1.0",
+      "oversBowledPerMatch": "0.0"
     }
   },
   {
@@ -1679,7 +1679,7 @@
     "age": "28",
     "role": "batsman",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Chennai Super Kings",
+    "teamLastSeason": "Delhi Capitals",
     "image": "/players/P028.avif",
     "unsold": true,
     "battingStats": {
@@ -2113,7 +2113,7 @@
     "age": "32",
     "role": "Batsman",
     "handedness": "Left Handed",
-    "teamLastSeason": "Rajasthan Royals",
+    "teamLastSeason": "Kolkata Knight Riders",
     "image": "/players/P036.avif",
     "unsold": true,
     "battingStats": {
@@ -5406,7 +5406,7 @@
     "role": "Allrounder",
     "handedness": "Right-hand bat",
     "teamLastSeason": "Delhi Capitals",
-    "image": "/players/P151.avif",
+    "image": "/players/P092.avif",
     "unsold": false,
     "battingStats": {
       "matches": "3",
@@ -8811,64 +8811,64 @@
   },
   {
     "playerId": "P156",
-    "name": "Yash Dayal",
-    "age": "28",
-    "role": "Bowler",
+    "name": "Umesh Yadav",
+    "age": "38",
+    "role": "bowler",
     "handedness": "Right-hand bat",
-    "teamLastSeason": "Royal Challengers Bengaluru",
+    "teamLastSeason": "Gujarat Titans",
     "image": "/players/P156.avif",
     "unsold": true,
     "battingStats": {
-      "matches": "34",
-      "innings": "3",
-      "runs": "4",
-      "average": "1.3",
-      "strikeRate": "50.0",
+      "matches": "15",
+      "innings": "7",
+      "runs": "31",
+      "average": "10.3",
+      "strikeRate": "93.9",
       "fifties": "0",
       "hundreds": "0",
-      "ballsPerDismissal": "3.0",
+      "ballsPerDismissal": "11.0",
       "boundaries": {
-        "fours": "0",
-        "sixes": "0",
-        "boundaryPercentage": "0.0"
+        "fours": "1",
+        "sixes": "1",
+        "boundaryPercentage": "32.3"
       },
       "phaseWiseStrikeRate": {
         "powerplay": "0.0",
-        "middleOvers": "0.0",
-        "deathOvers": "50.0"
+        "middleOvers": "85.4",
+        "deathOvers": "105.6"
       },
       "consistency": {
         "thirtyPlusPercentage": "0.0"
       },
       "recentForm": {
-        "lastSeasonRuns": "4",
-        "lastSeasonMatches": "15",
-        "recentAverage": "2.0"
+        "lastSeasonRuns": "0",
+        "lastSeasonMatches": "0",
+        "recentAverage": "0.0"
       }
     },
     "bowlingStats": {
-      "inningsBowled": "34",
-      "wickets": "30",
-      "average": "38.2",
+      "inningsBowled": "15",
+      "wickets": "9",
+      "average": "44.3",
       "economy": "9.9",
-      "strikeRate": "23.0",
+      "strikeRate": "26.7",
       "phaseWiseEconomy": {
-        "powerplay": "8.9",
+        "powerplay": "8.8",
         "deathOvers": "11.4"
       },
       "control": {
-        "dotBallPercentage": "38.1",
-        "oversUnderSixRPO": "1"
+        "dotBallPercentage": "42.5",
+        "oversUnderSixRPO": "2"
       },
       "recentForm": {
-        "lastSeasonWickets": "13",
-        "lastSeasonEconomy": "9.59"
+        "lastSeasonWickets": "0",
+        "lastSeasonEconomy": "0.0"
       }
     },
     "allRounderStats": {
-      "matchesWithRunsAndWickets": "2",
-      "averageBattingPosition": "10.5",
-      "oversBowledPerMatch": "3.7"
+      "matchesWithRunsAndWickets": "5",
+      "averageBattingPosition": "9.2",
+      "oversBowledPerMatch": "2.7"
     }
   },
   {
